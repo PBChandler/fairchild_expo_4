@@ -98,3 +98,4 @@ InitTestScene*.unity*
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 *.abc
+fairchild_4/Packages/com.unity.xr.openxr
